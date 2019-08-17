@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/stackOFlow/LinkedListType.h
+iostream
+-
+
+/Users/vpangul/CLionProjects/stackOFlow/main.cpp
+iostream
+-
+unorderedLinkedList.h
+/Users/vpangul/CLionProjects/stackOFlow/unorderedLinkedList.h
+unorderedLinkedList.cpp
+/Users/vpangul/CLionProjects/stackOFlow/unorderedLinkedList.cpp
+
+/Users/vpangul/CLionProjects/stackOFlow/unorderedLinkedList.cpp
+iostream
+-
+unorderedLinkedList.h
+/Users/vpangul/CLionProjects/stackOFlow/unorderedLinkedList.h
+
+/Users/vpangul/CLionProjects/stackOFlow/unorderedLinkedList.h
+iostream
+-
+LinkedListType.h
+/Users/vpangul/CLionProjects/stackOFlow/LinkedListType.h
+

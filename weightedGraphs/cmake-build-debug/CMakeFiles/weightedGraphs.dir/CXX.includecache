@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/weightedGraphs/main.cpp
+iostream
+-
+wgraph.cpp
+/Users/vpangul/CLionProjects/weightedGraphs/wgraph.cpp
+
+/Users/vpangul/CLionProjects/weightedGraphs/wgraph.cpp
+iostream
+-
+wgraph.h
+/Users/vpangul/CLionProjects/weightedGraphs/wgraph.h
+
+/Users/vpangul/CLionProjects/weightedGraphs/wgraph.h
+iostream
+-
+vector
+-
+

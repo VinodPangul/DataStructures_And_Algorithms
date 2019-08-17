@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/stacks/linkedStackType.cpp
+iostream
+-
+assert.h
+/Users/vpangul/CLionProjects/stacks/assert.h
+linkedStackType.h
+/Users/vpangul/CLionProjects/stacks/linkedStackType.h
+
+/Users/vpangul/CLionProjects/stacks/linkedStackType.h
+iostream
+-
+
+/Users/vpangul/CLionProjects/stacks/main.cpp
+iostream
+-
+string
+-
+linkedStackType.h
+/Users/vpangul/CLionProjects/stacks/linkedStackType.h
+linkedStackType.cpp
+/Users/vpangul/CLionProjects/stacks/linkedStackType.cpp
+

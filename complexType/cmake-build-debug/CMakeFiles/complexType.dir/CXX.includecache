@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/complexType/complexType.h
+
+/Users/vpangul/CLionProjects/complexType/complexTypeDiv.h
+complexType.h
+/Users/vpangul/CLionProjects/complexType/complexType.h
+
+/Users/vpangul/CLionProjects/complexType/complexTypeDivImp.cpp
+iostream
+-
+complexTypeDiv.h
+/Users/vpangul/CLionProjects/complexType/complexTypeDiv.h
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.cpp
+iostream
+-
+LinkedListType.h
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.h
+
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.h
+iostream
+-
+
+/Users/vpangul/CLionProjects/UnorderedLinkedList/main.cpp
+iostream
+-
+unorderedLinkedList.h
+/Users/vpangul/CLionProjects/UnorderedLinkedList/unorderedLinkedList.h
+unorderedLinkedList.cpp
+/Users/vpangul/CLionProjects/UnorderedLinkedList/unorderedLinkedList.cpp
+
+/Users/vpangul/CLionProjects/UnorderedLinkedList/unorderedLinkedList.cpp
+iostream
+-
+LinkedListType.h
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.h
+unorderedLinkedList.h
+/Users/vpangul/CLionProjects/UnorderedLinkedList/unorderedLinkedList.h
+
+/Users/vpangul/CLionProjects/UnorderedLinkedList/unorderedLinkedList.h
+iostream
+-
+LinkedListType.h
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.h
+LinkedListType.cpp
+/Users/vpangul/CLionProjects/UnorderedLinkedList/LinkedListType.cpp
+

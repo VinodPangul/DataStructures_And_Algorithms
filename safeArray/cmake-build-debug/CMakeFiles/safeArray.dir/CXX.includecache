@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/safeArray/main.cpp
+iostream
+-
+safeArray.h
+/Users/vpangul/CLionProjects/safeArray/safeArray.h
+safeArrayImp.cpp
+/Users/vpangul/CLionProjects/safeArray/safeArrayImp.cpp
+
+/Users/vpangul/CLionProjects/safeArray/safeArray.h
+iostream
+/Users/vpangul/CLionProjects/safeArray/iostream
+
+/Users/vpangul/CLionProjects/safeArray/safeArrayImp.cpp
+iostream
+-
+safeArray.h
+/Users/vpangul/CLionProjects/safeArray/safeArray.h
+

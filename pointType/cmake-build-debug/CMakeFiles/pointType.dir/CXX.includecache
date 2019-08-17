@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/pointType/pointType.h
+
+/Users/vpangul/CLionProjects/pointType/pointTypeMain.cpp
+iostream
+-
+iomanip
+-
+pointType.h
+/Users/vpangul/CLionProjects/pointType/pointType.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/bSearchTree/bSearchTree.cpp
+iostream
+-
+bSearchTree.h
+/Users/vpangul/CLionProjects/bSearchTree/bSearchTree.h
+
+/Users/vpangul/CLionProjects/bSearchTree/bSearchTree.h
+iostream
+-
+binaryTree.h
+/Users/vpangul/CLionProjects/bSearchTree/binaryTree.h
+binaryTree.cpp
+/Users/vpangul/CLionProjects/bSearchTree/binaryTree.cpp
+
+/Users/vpangul/CLionProjects/bSearchTree/binaryTree.cpp
+iostream
+-
+binaryTree.h
+/Users/vpangul/CLionProjects/bSearchTree/binaryTree.h
+
+/Users/vpangul/CLionProjects/bSearchTree/binaryTree.h
+iostream
+-
+
+/Users/vpangul/CLionProjects/bSearchTree/main.cpp
+iostream
+-
+bSearchTree.h
+/Users/vpangul/CLionProjects/bSearchTree/bSearchTree.h
+bSearchTree.cpp
+/Users/vpangul/CLionProjects/bSearchTree/bSearchTree.cpp
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/cylinderType/circleType.h
+pointType.h
+/Users/vpangul/CLionProjects/cylinderType/pointType.h
+
+/Users/vpangul/CLionProjects/cylinderType/cylinderType.h
+circleType.h
+/Users/vpangul/CLionProjects/cylinderType/circleType.h
+
+/Users/vpangul/CLionProjects/cylinderType/cylinderTypeImp.cpp
+iostream
+-
+circleType.h
+/Users/vpangul/CLionProjects/cylinderType/circleType.h
+cylinderType.h
+/Users/vpangul/CLionProjects/cylinderType/cylinderType.h
+
+/Users/vpangul/CLionProjects/cylinderType/pointType.h
+

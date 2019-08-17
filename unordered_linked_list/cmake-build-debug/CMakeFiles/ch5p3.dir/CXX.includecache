@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vpangul/CLionProjects/ch5p3/linkedList.h
+iostream
+-
+cassert
+-
+
+/Users/vpangul/CLionProjects/ch5p3/main.cpp
+iostream
+-
+unorderedLinkedList.h
+/Users/vpangul/CLionProjects/ch5p3/unorderedLinkedList.h
+
+/Users/vpangul/CLionProjects/ch5p3/unorderedLinkedList.h
+linkedList.h
+/Users/vpangul/CLionProjects/ch5p3/linkedList.h
+
